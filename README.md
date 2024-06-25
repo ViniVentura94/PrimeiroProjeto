@@ -18,9 +18,9 @@
 # :construction_worker: Prévia
 
 <h3>DESKTOP</h3>
-<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/Desktop-Wide-Coverage-Location.png?raw=true">
+<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/img/Desktop-Wide-Coverage-Location.png?raw=true">
 <h3>MOBILE</h3>
-<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/Mobile-Wide-Coverage-Location.png?raw=true">
+<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/img/Mobile-Wide-Coverage-Location.png?raw=true">
 
 <br>
 
